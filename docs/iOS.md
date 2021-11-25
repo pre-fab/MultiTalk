@@ -1,0 +1,33 @@
+![KakaoTalk Multi](https://i.imgur.com/6lOkq2N.png)
+
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](docs/iOS.md)
+[![Visits](https://badges.pufler.dev/visits/pre-fab/KakaoTalk-Multi?style=for-the-badge&logo=kakaotalk)](https://github.com/pre-fab/KakaoTalk-Multi)
+<br/><br/>
+**카카오에서 공식으로 제공하는 서비스가 아닙니다.<br/>사용에 의해 발생하는 모든 결과에 대한 책임은 사용자 본인에게 있습니다.**
+
+## 다운로드
+[![KakaoTalk Multi](https://img.shields.io/badge/KakaoTalk%20Multi-v9.5.8-brown?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8%2BCjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgdmlld0JveD0iMCAwIDk5LjYxODAxIDkyLjE0NzAxMSIKICAgaGVpZ2h0PSI5Mi4xNDcwMTEiCiAgIHdpZHRoPSI5OS42MTgwMTEiCiAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgIGlkPSJzdmcyIgogICB2ZXJzaW9uPSIxLjEiCiAgIGlua3NjYXBlOnZlcnNpb249IjAuOTEgcjEzNzI1IgogICBzb2RpcG9kaTpkb2NuYW1lPSJLYWthb19jb3JwLnN2ZyI%2BPHNvZGlwb2RpOm5hbWVkdmlldwogICAgIHBhZ2Vjb2xvcj0iI2ZmZmZmZiIKICAgICBib3JkZXJjb2xvcj0iIzY2NjY2NiIKICAgICBib3JkZXJvcGFjaXR5PSIxIgogICAgIG9iamVjdHRvbGVyYW5jZT0iMTAiCiAgICAgZ3JpZHRvbGVyYW5jZT0iMTAiCiAgICAgZ3VpZGV0b2xlcmFuY2U9IjEwIgogICAgIGlua3NjYXBlOnBhZ2VvcGFjaXR5PSIwIgogICAgIGlua3NjYXBlOnBhZ2VzaGFkb3c9IjIiCiAgICAgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIxNjgwIgogICAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9Ijk4OCIKICAgICBpZD0ibmFtZWR2aWV3MzQ5IgogICAgIHNob3dncmlkPSJmYWxzZSIKICAgICBpbmtzY2FwZTp6b29tPSIzLjM2NDAwNzUiCiAgICAgaW5rc2NhcGU6Y3g9IjQxLjA2NzI1MyIKICAgICBpbmtzY2FwZTpjeT0iMjEuNjQyMzQiCiAgICAgaW5rc2NhcGU6d2luZG93LXg9Ii04IgogICAgIGlua3NjYXBlOndpbmRvdy15PSItOCIKICAgICBpbmtzY2FwZTp3aW5kb3ctbWF4aW1pemVkPSIxIgogICAgIGlua3NjYXBlOmN1cnJlbnQtbGF5ZXI9InN2ZzIiCiAgICAgZml0LW1hcmdpbi10b3A9IjEiCiAgICAgZml0LW1hcmdpbi1sZWZ0PSIxIgogICAgIGZpdC1tYXJnaW4tYm90dG9tPSIxIgogICAgIGZpdC1tYXJnaW4tcmlnaHQ9IjEiIC8%2BPGRlZnMKICAgICBpZD0iZGVmczYiPjxjbGlwUGF0aAogICAgICAgaWQ9ImNsaXBQYXRoNjkyIgogICAgICAgY2xpcFBhdGhVbml0cz0idXNlclNwYWNlT25Vc2UiPjxwYXRoCiAgICAgICAgIGlkPSJwYXRoNjkwIgogICAgICAgICBkPSJtIDAsNTk1LjI4IDg0MS44OSwwIEwgODQxLjg5LDAgMCwwIFoiCiAgICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiIC8%2BPC9jbGlwUGF0aD48L2RlZnM%2BPGcKICAgICBpZD0iZzY4NiIKICAgICB0cmFuc2Zvcm09Im1hdHJpeCgxLDAsMCwtMSwtMzYyLjI2MzU4LDIzNC4wOTg5NSkiPjxnCiAgICAgICBjbGlwLXBhdGg9InVybCgjY2xpcFBhdGg2OTIpIgogICAgICAgaWQ9Imc2ODgiPjxnCiAgICAgICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE2My4yNjEyLDM3Ni42Nzc3KSIKICAgICAgICAgaWQ9Imc2OTQiPjxwYXRoCiAgICAgICAgICAgaWQ9InBhdGg2OTYiCiAgICAgICAgICAgc3R5bGU9ImZpbGw6IzNjMWUxZTtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSIKICAgICAgICAgICBkPSJtIDI0OC44MTAzOSwtMTQzLjU3ODc1IGMgLTI2Ljk1MywwIC00OC44MDgwMSwtMTcuMjU2IC00OC44MDgwMSwtMzguNTU1IDAsLTEzLjY4MTAxIDkuMDUyMDEsLTI1LjY5MzAxIDIyLjY0NjAxLC0zMi41NDkwMSBsIC00LjU5OSwtMTcuMTY3IGMgLTAuMTc2LC0wLjUyNyAtMC4wMywtMS4wODUgMC4zNTIsLTEuNDY1IDAuMjYzLC0wLjI2NSAwLjYxNCwtMC40MTEgMC45OTUsLTAuNDExIDAuMjk0LDAgMC41ODYsMC4xMTcgMC44NSwwLjMyMiBsIDE5Ljc3NSwxMy4zNiBjIDIuODcyLC0wLjQxIDUuODAyLC0wLjY0NCA4Ljc4OSwtMC42NDQgMjYuOTUzLDAgNDguODEsMTcuMjU1IDQ4LjgxLDM4LjU1NDAxIDAsMjEuMjk5IC0yMS44NTcsMzguNTU1IC00OC44MSwzOC41NTUiCiAgICAgICAgICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgLz48L2c%2BPC9nPjwvZz48L3N2Zz4%3D&labelColor=ffe500)](https://github.com/pre-fab/KakaoTalk-Multi/releases/tag/v9.5.8)
+
+## 가이드
+두 가지 방법 중 하나를 선택하여 설치하세요.
+- [일반 설치](https://github.com/pre-fab/KakaoTalk-Multi/blob/master/docs/iOS.md#일반-설치): `AltStore`를 이용하여 설치를 진행합니다.
+- [unsigned 설치](https://github.com/pre-fab/KakaoTalk-Multi/blob/master/docs/iOS.md#unsigned-설치): `Resign 과정`을 거쳐 설치를 진행합니다. 😵
+
+## 일반 설치
+- `AltServer & AltStore`가 설치된 `Mac·PC, iPhone`: [다운로드](https://altstore.io/)
+![Normal Install](https://i.imgur.com/NYiEz7H.png)
+
+## unsigned 설치
+- macOS: ~~VMware도 가능합니다 😂~~
+- `애플 개발자 인증서 파일`
+- 카카오톡 멀티를 설치할 iPhone
+- iOS App Signer: [다운로드](https://www.iosappsigner.com/)
+- iFunbox Classic v1.5: [다운로드](http://dl.i-funbox.com/mac/ifunboxmac.1.5.dmg)<br/>
+![Unsigned Install](https://i.imgur.com/xnxhq5O.png)
+
+## 관련 링크
+- [순정으로 알트스토어 갱신 없이 아이폰 듀얼카톡 사용하기 | 차유나](https://blog.naver.com/foeeeva/222512411558)
+
+## 오픈 채팅
+설치 과정에서 문제가 있으시거나, 더 많은 정보를 얻고 싶으시다면 오픈 채팅에 참여하세요!
+[![Kakao Open](https://i.imgur.com/UC89pXi.png)](https://open.kakao.com/o/gAaFEwLd)
